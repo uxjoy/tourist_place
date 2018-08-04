@@ -22,7 +22,7 @@
 }
 
 .header{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/forest.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/forest.jpg");
     height: 665px;
     background-size: cover;
     background-position: center;
